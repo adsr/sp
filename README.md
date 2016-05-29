@@ -2,9 +2,11 @@ sp
 ==
 
 I sometimes find myself using the mouse to copy a path visible on the terminal
-that was printed by another program (e.g., find, git), usually with intent to
-paste it as a parameter to another shell command. sp helps you do this without
-using the mouse.
+that was printed by another program (e.g., `find`, `git`), usually with intent
+to paste it as a parameter to another shell command. `sp` helps you do this
+without using the mouse.
+
+`sp` stands for screen path(s).
 
 ### Synopsis
 
@@ -40,4 +42,4 @@ using the mouse.
 
 ### Limitations
 
-sp only works from inside screen or tmux.
+`sp` only works from inside `screen` or `tmux`.
